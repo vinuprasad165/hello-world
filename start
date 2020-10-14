@@ -1,4 +1,6 @@
 
 int main(){
-printf("Hello world");
+printf("Hello world-edited");
+unt a=534;
+char c="A";
 return 0;}
